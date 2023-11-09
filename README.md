@@ -15,13 +15,13 @@ Understanding these dynamics can offer concrete actionable steps to actors, advi
 
 ## Additional Datasets 📈
 
-## Methods
+## Methods 📊
 
-## Timeline 
+## Timeline ⌛️
 ![Shine Bright Like Adamon](img/timeline.png)
 
-## Team Organization
+## Team Organization ✅
 
 
-## Questions for TA 
+## Questions for TA ❔
 
