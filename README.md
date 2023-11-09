@@ -10,7 +10,18 @@ This plan should clarify what to concentrate on and when, such as the ideal genr
 Understanding these dynamics can offer concrete actionable steps to actors, advising them on their next move to maximize their success potential.
 
 ## Research Questions 🔎
+1. Q1
+    1.1 Q1.1
 
 ## Additional Datasets 📈
 
+## Methods
+
+## Timeline 
+![Shine Bright Like Adamon](img/timeline.png)
+
+## Team Organization
+
+
+## Questions for TA 
 
